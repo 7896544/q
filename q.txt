@@ -683,8 +683,6 @@ JXTV2,http://39.135.138.8:6610/PLTV/88888888/224/3221225584/1/index.m3u8
 求索生活,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
 求索科学,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
 求索纪录,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
-中国教育1,http://ivi6.bupt.edu.cn/hls/cetv1.m3u8
-中国教育1,http://ivi6.bupt.edu.cn/hls/cetv1hd.m3u8
 CHC高清电影,http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
 CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 上海纪实人文,http://39.135.138.8:6610/PLTV/88888888/224/3221225654/5/index.m3u8
