@@ -291,10 +291,6 @@ CCTV17,http://hdtv.lzu6.edu.cn/hls/hls73a8.m3u8
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225736/index.m3u8
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
-上海纪实人文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
-上海纪实人文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
-北京冬奥纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
-北京冬奥纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
 东南卫视,http://ivi6.bupt.edu.cn/hls/dnhd.m3u8
 东方卫视,http://ivi6.bupt.edu.cn/hls/dfhd.m3u8
 吉林卫视,http://ivi6.bupt.edu.cn/hls/jlhd.m3u8
@@ -589,7 +585,7 @@ CCTV17,http://hdtv.lzu6.edu.cn/hls/hls73a8.m3u8
 湖南卫视,http://hdtv.lzu6.edu.cn/hls/hls115.m3u8
 湖南卫视,http://hdtv.lzu6.edu.cn/hls/jlu_hnhd.m3u8
 浙江卫视,http://hdtv.lzu6.edu.cn/hls/zjhd.m3u8
-浙江卫视 37M1080,http://hdtv.lzu6.edu.cn/hls/hls68a51.m3u8
+浙江卫视,http://hdtv.lzu6.edu.cn/hls/hls68a51.m3u8
 浙江卫视,http://hdtv.lzu6.edu.cn/hls/hls123.m3u8
 浙江卫视,http://hdtv.lzu6.edu.cn/hls/jlu_zjhd.m3u8
 东方卫视,http://hdtv.lzu6.edu.cn/hls/dfhd.m3u8
@@ -723,6 +719,10 @@ CHC高清电影,http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 湖南金鹰纪实,http://hdtv.lzu6.edu.cn/hls/gedocu.m3u8
 湖南金鹰纪实,http://hdtv.lzu6.edu.cn/hls/hls75a26.m3u8
 湖南金鹰纪实,http://hdtv.lzu6.edu.cn/hls/hls163.m3u8
+上海纪实人文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
+上海纪实人文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
+北京冬奥纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
+北京冬奥纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
 上海纪实人文,http://hdtv.lzu6.edu.cn/hls/docuchina.m3u8
 足球频道,http://hdtv.lzu6.edu.cn/hls/zqhd.m3u8
 家庭剧场,http://hdtv.lzu6.edu.cn/hls/hls75a28.m3u8
