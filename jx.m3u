@@ -69,6 +69,46 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻
+http://185.207.176.189:8080/channels/tw-101/mpeg.2ts
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
+http://185.207.176.189:8080/channels/tw-100/mpeg.2ts
+#EXTINF:-1 tvg-id="7136" tvg-name="中视菁采台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png" group-title="港澳台",中视菁采
+http://185.207.176.189:8080/channels/tw-103/mpeg.2ts
+#EXTINF:-1 tvg-id="7172" tvg-name="中视经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视经典.png" group-title="港澳台",中视经典
+http://185.207.176.189:8080/channels/tw-102/mpeg.2ts
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻台
+http://185.207.176.189:8080/channels/tw-302/mpeg.2ts
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="港澳台",民视
+http://185.207.176.189:8080/channels/tw-300/mpeg.2ts
+#EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="港澳台",民视第一台
+http://185.207.176.189:8080/channels/tw-301/mpeg.2ts
+#EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="港澳台",民视台湾台
+http://185.207.176.189:8080/channels/tw-304/mpeg.2ts
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
+http://185.207.176.189:8080/channels/tw-501/mpeg.2ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",华视新闻
+http://185.207.176.189:8080/channels/tw-503/mpeg.2ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",华视教育体育文化
+http://185.207.176.189:8080/channels/tw-502/mpeg.2ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",港台电视32
+http://185.207.176.189:8080/channels/tv-32/mpeg.2ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",港台电视31
+http://185.207.176.189:8080/channels/tv-31/mpeg.2ts
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
+http://185.207.176.189:8080/channels/tv-83/mpeg.2ts
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经
+http://185.207.176.189:8080/channels/tv-85/mpeg.2ts
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
+http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
+http://185.207.176.189:8080/channels/tv-84/mpeg.2ts
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
+http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
+#EXTINF:-1 tvg-id="" tvg-name="ViuTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV6
+http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="未分类",求索动物
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",求索生活
